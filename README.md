@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @slepper117
 - 👀 I’m interested in PERN Stack (PostgreSQL, Express, React and Node)
 - 🌱 I’m currently learning C and C Sharp
+- 🎓 I'm computer systems engineering student at <a href="ipca.pt">IPCA</a>.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 You can reach me throw DM.
 
